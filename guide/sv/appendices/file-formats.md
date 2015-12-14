@@ -5,11 +5,11 @@ lang: sv
 title: Filformat
 ---
 
-## An Overview of File Formats
+## En sammanfattning av filformat
 
 ### JSON
 
-JSON is a simple file format that is very easy for any programming language to read. Its simplicity means that it is generally easier for computers to process than others, such as XML.
+JSON är ett enkelt filformat som är enkelt att läsa genom vilket programmeringsspråk som helst. Enkelheten betyder att det generellt sett oftast är enklare för datorer att behandla än till exempel XML.
 
 ### XML
 
