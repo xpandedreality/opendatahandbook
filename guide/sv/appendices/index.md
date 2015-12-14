@@ -1,4 +1,5 @@
 ---
+redirect_from: /sv/appendices/index.html
 section: guide
 lang: sv
 title: Appendix
