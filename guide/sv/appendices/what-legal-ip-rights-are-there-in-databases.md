@@ -2,7 +2,7 @@
 redirect_from: /sv/appendices/index.html
 section: guide
 lang: sv
-title: Juridiska (IP) rättigheter i data(baser)
+title: Vilka juridiska rättigheter finns det i data(baser)
 ---
 When talking about data(bases) we first need to distinguish between the structure and the content of a database (when we use the term 'data' we shall mean the content of the database itself). Structural elements include things like the field names and a model for the data – the organization of these fields and their inter-relation.
 
